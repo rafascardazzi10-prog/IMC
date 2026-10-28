@@ -17,6 +17,15 @@
     }
     }
 
+// function
+function FATOBENE (numero) {
+    return numero * 2;
+}
+
+//arrow function 
+
+const dobro = (numero) => numero * 2;
+
 
 
 
